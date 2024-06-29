@@ -35,6 +35,7 @@ Currently a student at PES University, pursuing a B.Tech in Computer Science Eng
 - ### Project 1: [EcoNest](https://github.com/ArshdKhan/econest)
 **Description**: EcoNest is a web application that helps users discover average rental prices in various neighborhoods around specific landmarks. The project leverages Python Django for the backend and MongoDB for the database. Developed during the Override Hackathon in September 2023.
 
+<!---
 ## Experience
 - ### Intern at ____
   **Role:** Software Developer Intern  
@@ -44,6 +45,7 @@ Currently a student at PES University, pursuing a B.Tech in Computer Science Eng
 ## Achievements
 - Awarded Best Student Project in XXXX.
 - Secured X place in Inter-college Hackathon.
+--->
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshdKhan&show_icons=true&theme=radical)
