@@ -1,5 +1,12 @@
+# A Arshad Khan
+
+![Profile Image](./assets/img/profile_circle.png)
+
 ## Contact
-📧 a.arshd.khn@gmail.com  📱 (+91) 8088870278
+📧 a.arshd.khn@gmail.com 📱 (+91) 8088870278
+
+## About Me
+Currently a student at PES University, pursuing a B.Tech in Computer Science Engineering (CSE). Expected graduation in 2026.
 
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
