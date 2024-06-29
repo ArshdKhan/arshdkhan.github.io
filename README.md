@@ -1,5 +1,3 @@
-# A Arshad Khan
-
 <p align="left">
   <img src="./assets/img/profile_circle.png" alt="Profile Image" width="250" style="border-radius: 50%;">
 </p>
