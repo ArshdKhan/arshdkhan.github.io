@@ -1,6 +1,8 @@
 # A Arshad Khan
 
+<p>
 <img src="./assets/img/profile_circle.png" alt="Profile Image" width="250" style="float: left; margin-right: 20px; border-radius: 50%;">
+</p>
 
 ## Contact
 📧 a.arshd.khn@gmail.com 📱 (+91) 8088870278
