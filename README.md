@@ -1,7 +1,4 @@
 ## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/a-arshad-khan/)
-
 📧 a.arshd.khn@gmail.com  📱 (+91) 8088870278
 
 ## Skills
