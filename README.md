@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/a-arshad-khan/)
 
-📧 a.arshd.khn@gmail.com | 📱 (+91) 8088870278
+📧 a.arshd.khn@gmail.com  📱 (+91) 8088870278
 
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -28,8 +28,8 @@
   86.7% (2020)
 
 ## Projects
-- ### [Project 1: EcoNest](https://github.com/ArshdKhan/econest)
-  **Description**: EcoNest is a web application that helps users discover average rental prices in various neighborhoods around specific landmarks. The project leverages Python Django for the backend and MongoDB for the database. Developed during the Override Hackathon in September 2023.
+- ### Project 1: [EcoNest](https://github.com/ArshdKhan/econest)
+**Description**: EcoNest is a web application that helps users discover average rental prices in various neighborhoods around specific landmarks. The project leverages Python Django for the backend and MongoDB for the database. Developed during the Override Hackathon in September 2023.
 
 ## Experience
 - ### Intern at ____
