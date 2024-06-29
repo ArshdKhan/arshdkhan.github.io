@@ -27,7 +27,7 @@
   86.7% (2020)
 
 ## Projects
-- ### [EcoNest](https://github.com/ArshdKhan/econest)
+- ### [Project 1: EcoNest](https://github.com/ArshdKhan/econest)
   **Description**: EcoNest is a web application that helps users discover average rental prices in various neighborhoods around specific landmarks. The project leverages Python Django for the backend and MongoDB for the database. Developed during the Override Hackathon in September 2023.
 
 ## Experience
