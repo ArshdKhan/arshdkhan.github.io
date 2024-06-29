@@ -1,7 +1,7 @@
 # A Arshad Khan
 
 <p align="center">
-  <img src="./assets/profile.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
+  <img src="./assets/img/profile_circle.png" alt="Profile Image" width="150" style="border-radius: 50%;">
 </p>
 
 ## Contact
