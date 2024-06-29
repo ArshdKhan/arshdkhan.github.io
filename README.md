@@ -1,7 +1,6 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/a-arshad-khan/)
 
 ## Contact
-📧 a.arshd.khn@gmail.com | 📱 (+91) 8088870278
+📧 a.arshd.khn@gmail.com | 📱 (+91) 8088870278 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/a-arshad-khan/)
 
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
