@@ -14,27 +14,27 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
 
 ## Education
-**Bachelors of Technology in Computer Science Engineering**  
-PES University, Bangalore  
-CGPA: 7.6 (Dec '22 - Aug '26)
+- **Bachelors of Technology in Computer Science Engineering**  
+  PES University, Bangalore  
+  CGPA: 7.6 (Dec '22 - Aug '26)
 
-**XII (CBSE)**  
-Narayana E-Techno School, Bangalore  
-89.6% (2022)
+- **XII (CBSE)**  
+  Narayana E-Techno School, Bangalore  
+  89.6% (2022)
 
-**X (ICSE)**  
-Cambridge Public School, Bangalore  
-86.7% (2020)
+- **X (ICSE)**  
+  Cambridge Public School, Bangalore  
+  86.7% (2020)
 
 ## Projects
-### [EcoNest](https://github.com/ArshdKhan/econest)
-**Description**: EcoNest is a web application that helps users discover average rental prices in various neighborhoods around specific landmarks. The project leverages Python Django for the backend and MongoDB for the database. Developed during the Override Hackathon in September 2023.
+- ### [EcoNest](https://github.com/ArshdKhan/econest)
+  **Description**: EcoNest is a web application that helps users discover average rental prices in various neighborhoods around specific landmarks. The project leverages Python Django for the backend and MongoDB for the database. Developed during the Override Hackathon in September 2023.
 
 ## Experience
-### Intern at ____
-**Role:** Software Developer Intern  
-**Duration:** XXX 202X - XXX 202X  
-Worked on developing new features for the company's main product using ____ and ____.
+- ### Intern at ____
+  **Role:** Software Developer Intern  
+  **Duration:** XXX 202X - XXX 202X  
+  Worked on developing new features for the company's main product using ____ and ____.
 
 ## Achievements
 - Awarded Best Student Project in XXXX.
