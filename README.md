@@ -47,9 +47,5 @@ Currently a student at PES University, pursuing a B.Tech in Computer Science Eng
 - Secured X place in Inter-college Hackathon.
 --->
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshdKhan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshdKhan&layout=compact&theme=radical)
-
 ## Let's Connect!
 Feel free to reach out to me via [email](mailto:a.arshd.khn@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/a-arshad-khan/).
