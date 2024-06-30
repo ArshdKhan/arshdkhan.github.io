@@ -21,7 +21,7 @@ Currently a student at PES University, pursuing a B.Tech in Computer Science Eng
 ## Education
 - **Bachelors of Technology in Computer Science Engineering**  
   PES University, Bangalore  
-  CGPA: 7.6 (Dec '22 - Aug '26)
+  CGPA: 7.6 (Dec '22 - Present)
 
 - **XII (CBSE)**  
   Narayana E-Techno School, Bangalore  
