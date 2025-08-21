@@ -7,7 +7,7 @@
 <p align="center">
 📍 Bangalore, India | 
 📧 <a href="mailto:a.arshd.khn@gmail.com">a.arshd.khn@gmail.com</a> | 
-📱 (+91) 8088870278  
+📱 <a href="tel:+918088870278">(+91) 80888 70278</a>  
 <br>
 🌐 <a href="https://github.com/ArshdKhan">GitHub</a> | 
 💼 <a href="https://www.linkedin.com/in/a-arshad-khan/">LinkedIn</a>
