@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/img/profile_circle.png" alt="Profile Image" width="200" style="border-radius: 50%;">
+  <img src="./assets/img/profile_circle1.png" alt="Profile Image" width="200" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi, I'm Arshad Khan 👋</h1>
